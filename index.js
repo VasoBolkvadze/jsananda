@@ -1,4 +1,4 @@
-module.exports = function(){
+module.exports = (function(){
   //Date
   Object.defineProperty(Date.prototype, 'format', {
     enumerable: false,
@@ -128,4 +128,4 @@ module.exports = function(){
       }, []);
     }
   });
-};
+})();
