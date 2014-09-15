@@ -1,0 +1,27 @@
+{
+  "name": "jsananda",
+  "version": "0.0.1",
+  "description": "javascript extensions in bliss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/VasoBolkvadze/jsananda.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "extend",
+    "extension",
+    "extension",
+    "methods"
+  ],
+  "author": "Vaso Bolkvadze <vaso.bolkvadze@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VasoBolkvadze/jsananda/issues"
+  },
+  "homepage": "https://github.com/VasoBolkvadze/jsananda"
+}
